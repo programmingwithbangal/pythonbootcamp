@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab121305-6bea-4c75-91bd-ae08f193a236" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/Day 1/concatanation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/helloworld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/printrecipe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/stringmanipulation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ab121305-6bea-4c75-91bd-ae08f193a236" name="Changes" comment="day 1">
+      <change afterPath="$PROJECT_DIR$/Day 2/debuggingpractice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 2/inputfunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 2/variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "programmingwithbangal"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;programmingwithbangal&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/programmingwithbangal/pythonbootcamp.git",
-    "accountId": "b9feace0-9256-44cb-b152-4ed456fa1cf4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/programmingwithbangal/pythonbootcamp.git&quot;,
+    &quot;accountId&quot;: &quot;b9feace0-9256-44cb-b152-4ed456fa1cf4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kdHezF4EcoTMfGkMCCOJZhDzAz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,9 +49,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.concatanation.executor": "Run",
+    "Python.debuggingpractice.executor": "Run",
+    "Python.inputfunction.executor": "Debug",
     "Python.stringmanipulation.executor": "Run",
     "Python.task.executor": "Run",
     "Python.task2.executor": "Run",
+    "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
@@ -88,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723606804139</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day 1">
+      <option name="closed" value="true" />
+      <created>1723609857345</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723609857345</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +113,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
